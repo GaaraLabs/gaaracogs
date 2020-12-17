@@ -2,7 +2,7 @@ import discord
 
 from redbot.core import commands
 
-class Mycog(commands.Cog):
+class vote(commands.Cog):
 
     """My custom cog"""
 
