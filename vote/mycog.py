@@ -1,3 +1,5 @@
+import discord
+
 from redbot.core import commands
 
 class Mycog(commands.Cog):
@@ -8,8 +10,8 @@ class Mycog(commands.Cog):
 
     async def vote(self, ctx):
 
-        """This does stuff!"""
+        """Gives you link to vote bot."""
 
         # Your code will go here
 
-        await ctx.send("[Click Here To Vote Me](https://top.gg/bot/732916004656513077)")
+        await ctx.send("Click on This link to vote me 🙃\n\nhttps://top.gg/bot/732916004656513077")
