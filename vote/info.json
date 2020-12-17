@@ -16,7 +16,7 @@
 
     "hidden" : false,
 
-    "install_msg" : "Send `<prefix>vote` in a channel or bot's dm to use this command.",
+    "install_msg" : "This Cog is Developed by **MiCKY#0001** | <@612803327675334673>\nSend `<prefix>vote` in a channel or bot's dm to use this command.\nAnd join our Support Server for more more Cogs and Feedback\nhttps://discord.gg/ZhHpvazfh3",
 
     "max_bot_version" : "0.0.0",
 
