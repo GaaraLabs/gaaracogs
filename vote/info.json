@@ -16,7 +16,7 @@
 
     "hidden" : false,
 
-    "install_msg" : "Needs to be setup with an API key first. See `[p]cleverbotset apikey` / `[p]cleverbotset ioapikey`\n[p]cleverbot <text>` to talk with cleverbot.\n`@Mention <text>` works too.\n`[p]cleverbotset toggle` toggles replies by mention.",
+    "install_msg" : "Send `<prefix>vote` in a channel or bot's dm to use this command.",
 
     "max_bot_version" : "0.0.0",
 
@@ -32,7 +32,7 @@
 
     ],
 
-    "name" : "Cleverbot",
+    "name" : "vote",
 
     "permissions" : [],
 
@@ -40,11 +40,11 @@
 
     "requirements" : [],
 
-    "short" : "Talk with Cleverbot!",
+    "short" : "Gives vote link",
 
     "tags" : [
 
-        "cleverbot"
+        "vote"
 
     ],
 
