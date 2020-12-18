@@ -1,4 +1,4 @@
-from .vote import helpme
+from .helpme import helpme
 
 def setup(bot):
 
