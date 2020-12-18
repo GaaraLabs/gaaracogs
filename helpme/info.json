@@ -1,0 +1,52 @@
+{
+
+    "author" : [
+
+        "micky0singh"
+
+    ],
+
+    "description" : "Generates a vote link of bot",
+
+    "disabled" : false,
+
+    "end_user_data_statement" : "This cog does not persistently store data or metadata about users. However, this cog does pass user data to an external API for the purposes of simulated conversation responses.",
+
+    "hidden" : false,
+
+    "install_msg" : "This Cog is Developed by **MiCKY#0001** | <@612803327675334673>\nType `<prefix>helpme` to use this command ( It gives link to list of all bot commands ).\nAnd join our Support Server for more more Cogs and Feedback\nhttps://discord.gg/ZhHpvazfh3",
+
+    "max_bot_version" : "0.0.0",
+
+    "min_bot_version" : "3.1.8",
+
+    "min_python_version" : [
+
+        3,
+
+        7,
+
+        2
+
+    ],
+
+    "name" : "help",
+
+    "permissions" : [],
+
+    "required_cogs" : {},
+
+    "requirements" : [],
+
+    "short" : "Vote Link",
+
+    "tags" : [
+
+        "vote",
+        "gaaracogs"
+
+    ],
+
+    "type" : "COG"
+
+}
