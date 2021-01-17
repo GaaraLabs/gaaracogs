@@ -14,4 +14,4 @@ class vote(commands.Cog):
 
         # Your code will go here
 
-        await ctx.send("Click on This link to vote me 🙃\n\nhttps://top.gg/bot/732916004656513077")
+        await ctx.send("Click on This link to vote me 🙃\n\nhttps://top.gg/bot/732916004656513077/vote")
